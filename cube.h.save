@@ -1,0 +1,15 @@
+
+public:
+    Cube();
+
+    void reset();
+    bool isSolved() const;
+
+    void move(const std::string& m);
+    void applyAlgorithm(const std::vector<std::string>& moves);
+
+    void print() const;
+
+private:
+    // Faces: U, R, F, D, L, B
+    // Each f
