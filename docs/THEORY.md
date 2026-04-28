@@ -1,4 +1,4 @@
-## Theory and ALgorithm Analysis
+## Theory and Algorithm Analysis
 
 ## 1. The approach we decided to use for this project:
 
